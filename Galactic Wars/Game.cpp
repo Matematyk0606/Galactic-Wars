@@ -7,7 +7,7 @@
 #include "Controller.h" 
 
 Game::Game()
-{
+{ 
 }
 
 Game::Game(RenderWindow & window, GraphicsController & graphicsController, AudioController & audioController, Font & font, GameInfo & gameInfo)
