@@ -1,5 +1,4 @@
-#include "Controller.h" 
-
+#include "Controller.h"
 using namespace std;
 using namespace sf;
 
