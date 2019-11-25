@@ -39,8 +39,8 @@ class Player : public Sprite
 		float speed; // prêdkoœæ statku
 };
 
-template<class ClassType>
-inline ClassType * Player::getThisObject()
-{
-	return this
-}
+//template<class ClassType>
+//inline ClassType * Player::getThisObject()
+//{
+//	return this;
+//}
