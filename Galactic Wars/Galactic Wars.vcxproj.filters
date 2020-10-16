@@ -129,4 +129,7 @@
   <ItemGroup>
     <Font Include="iron_man.ttf" />
   </ItemGroup>
+  <ItemGroup>
+    <None Include="..\README.md" />
+  </ItemGroup>
 </Project>
